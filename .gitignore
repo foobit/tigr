@@ -1,0 +1,29 @@
+# temp folders
+#
+
+build/
+xcuserdata/
+.idea/
+.build/
+.vscode/
+.vs/
+
+# Compiled source
+#
+
+*.pyc
+*~.nib/
+*.perspective
+*.perspectivev3
+*.sdf
+*.opensdf
+*.pidb
+*.userprefs
+*.xccheckout
+
+# os generated files
+#
+
+.DS_Store
+ehthumbs.db
+Thumbs.db

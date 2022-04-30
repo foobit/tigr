@@ -1,0 +1,6 @@
+add_subdirectory(clip)
+add_subdirectory(demo)
+add_subdirectory(flags)
+add_subdirectory(hello)
+add_subdirectory(opengl)
+add_subdirectory(shader)
